@@ -12,7 +12,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 139d13b3f167e6d4dbb536830bde8efa, type: 3}
   m_Name: Stage0
   m_EditorClassIdentifier: Assembly-CSharp::Stage
-  stageBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-  stageLevelPartColor: {r: 1, g: 1, b: 1, a: 1}
-  stageBallColor: {r: 1, g: 1, b: 1, a: 1}
-  levels: []
+  stageBackgroundColor: {r: 0.5518868, g: 0.8916702, b: 1, a: 1}
+  stageLevelPartColor: {r: 0.4033019, g: 0.5, b: 0.40427864, a: 1}
+  stageBallColor: {r: 1, g: 0, b: 0.99501085, a: 1}
+  levels:
+  - partCount: 4
+    deathPartCount: 1
+  - partCount: 8
+    deathPartCount: 2
+  - partCount: 3
+    deathPartCount: 3
+  - partCount: 6
+    deathPartCount: 1
+  - partCount: 4
+    deathPartCount: 1
+  - partCount: 10
+    deathPartCount: 2
+  - partCount: 8
+    deathPartCount: 2
+  - partCount: 3
+    deathPartCount: 1
+  - partCount: 6
+    deathPartCount: 3
+  - partCount: 8
+    deathPartCount: 1
+  - partCount: 3
+    deathPartCount: 1
+  - partCount: 9
+    deathPartCount: 1
